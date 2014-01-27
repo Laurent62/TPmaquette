@@ -1,13 +1,8 @@
 TPmaquette
 ==========
 
-Réalisation d'un blog avec PHP
+Réalisation d'un blog avec PHP pour M. Lannoy
 
-Logs pour M. Lannoy
 
-Identifiant : lannoy@nilsine.fr
-
-Mot de passe : mdp
-
-Site internet : http://laurentdubreuil.fr/TPmaquette/
+Demonstration : http://laurentdubreuil.fr/TPmaquette/
 
